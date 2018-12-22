@@ -3,5 +3,8 @@ public class Test4 {
         System.out.println("asas");
         System.out.println("asas");
         System.out.println("asas");
+        System.out.println("asas");
+        System.out.println("asas");
+        System.out.println("asas");
     }
 }
